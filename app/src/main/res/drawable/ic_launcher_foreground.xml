@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Grid & Waveform lines in background -->
+    <path
+        android:fillColor="#3300F5D4"
+        android:pathData="M24,70 L28,70 L28,52 L24,52 Z M32,70 L36,70 L36,40 L32,40 Z M40,70 L44,70 L44,48 L40,48 Z M64,70 L68,70 L68,46 L64,46 Z M72,70 L76,70 L76,38 L72,38 Z M80,70 L84,70 L84,54 L80,54 Z" />
+
+    <!-- Beat Grid Base Bar -->
+    <path
+        android:fillColor="#4D7209B7"
+        android:pathData="M22,72 L86,72 L86,75 L22,75 Z" />
+
+    <!-- Center Studio Microphone Body -->
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M54,28 C49.58,28 46,31.58 46,36 L46,50 C46,54.42 49.58,58 54,58 C58.42,58 62,54.42 62,50 L62,36 C62,31.58 58.42,28 54,28 Z" />
+
+    <!-- Microphone Grille Mesh Accent -->
+    <path
+        android:fillColor="#0B132B"
+        android:pathData="M48,38 L60,38 L60,40 L48,40 Z M48,44 L60,44 L60,46 L48,46 Z" />
+
+    <!-- Microphone Stand / Cradle Arc -->
+    <path
+        android:fillColor="#F72585"
+        android:pathData="M66,48 C66,54.63 60.63,60 54,60 C47.37,60 42,54.63 42,48 L38,48 C38,56.12 44.08,62.8 52,63.85 L52,70 L46,70 L46,74 L62,74 L62,70 L56,70 L56,63.85 C63.92,62.8 70,56.12 70,48 L66,48 Z" />
+
+    <!-- AI Sparkle / Beat Pulse Star at top-right -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M74,27 L76,33 L82,35 L76,37 L74,43 L72,37 L66,35 L72,33 Z" />
+</vector>

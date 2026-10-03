@@ -1,0 +1,6 @@
+{
+  "name": "VocalBeat AI",
+  "description": "Vocal analysis, BPM & key detection, beat grid, vocal timing synchronization, rhythm generation, bass, chords, mixing, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
